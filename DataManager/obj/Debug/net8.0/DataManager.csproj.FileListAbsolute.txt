@@ -1,0 +1,14 @@
+C:\Users\Travel\source\repos\CMS\DataManager\obj\Debug\net8.0\DataManager.csproj.AssemblyReference.cache
+C:\Users\Travel\source\repos\CMS\DataManager\obj\Debug\net8.0\DataManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Travel\source\repos\CMS\DataManager\obj\Debug\net8.0\DataManager.AssemblyInfoInputs.cache
+C:\Users\Travel\source\repos\CMS\DataManager\obj\Debug\net8.0\DataManager.AssemblyInfo.cs
+C:\Users\Travel\source\repos\CMS\DataManager\obj\Debug\net8.0\DataManager.csproj.CoreCompileInputs.cache
+C:\Users\Travel\source\repos\CMS\DataManager\bin\Debug\net8.0\DataManager.deps.json
+C:\Users\Travel\source\repos\CMS\DataManager\bin\Debug\net8.0\DataManager.runtimeconfig.json
+C:\Users\Travel\source\repos\CMS\DataManager\bin\Debug\net8.0\DataManager.dll
+C:\Users\Travel\source\repos\CMS\DataManager\bin\Debug\net8.0\DataManager.pdb
+C:\Users\Travel\source\repos\CMS\DataManager\obj\Debug\net8.0\DataManager.dll
+C:\Users\Travel\source\repos\CMS\DataManager\obj\Debug\net8.0\refint\DataManager.dll
+C:\Users\Travel\source\repos\CMS\DataManager\obj\Debug\net8.0\DataManager.pdb
+C:\Users\Travel\source\repos\CMS\DataManager\obj\Debug\net8.0\DataManager.genruntimeconfig.cache
+C:\Users\Travel\source\repos\CMS\DataManager\obj\Debug\net8.0\ref\DataManager.dll

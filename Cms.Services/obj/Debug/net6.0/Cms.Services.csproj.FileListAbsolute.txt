@@ -1,0 +1,51 @@
+C:\Users\Travel\source\repos\CMS\Cms.Services\bin\Debug\net6.0\Cms.Services.deps.json
+C:\Users\Travel\source\repos\CMS\Cms.Services\bin\Debug\net6.0\Cms.Services.dll
+C:\Users\Travel\source\repos\CMS\Cms.Services\bin\Debug\net6.0\Cms.Services.pdb
+C:\Users\Travel\source\repos\CMS\Cms.Services\bin\Debug\net6.0\CMS.Repositories.dll
+C:\Users\Travel\source\repos\CMS\Cms.Services\bin\Debug\net6.0\DataManager.dll
+C:\Users\Travel\source\repos\CMS\Cms.Services\bin\Debug\net6.0\CMS.Repositories.pdb
+C:\Users\Travel\source\repos\CMS\Cms.Services\bin\Debug\net6.0\DataManager.pdb
+C:\Users\Travel\source\repos\CMS\Cms.Services\obj\Debug\net6.0\Cms.Services.csproj.AssemblyReference.cache
+C:\Users\Travel\source\repos\CMS\Cms.Services\obj\Debug\net6.0\Cms.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Travel\source\repos\CMS\Cms.Services\obj\Debug\net6.0\Cms.Services.AssemblyInfoInputs.cache
+C:\Users\Travel\source\repos\CMS\Cms.Services\obj\Debug\net6.0\Cms.Services.AssemblyInfo.cs
+C:\Users\Travel\source\repos\CMS\Cms.Services\obj\Debug\net6.0\Cms.Services.csproj.CoreCompileInputs.cache
+C:\Users\Travel\source\repos\CMS\Cms.Services\obj\Debug\net6.0\Cms.Serv.D76A44D2.Up2Date
+C:\Users\Travel\source\repos\CMS\Cms.Services\obj\Debug\net6.0\Cms.Services.dll
+C:\Users\Travel\source\repos\CMS\Cms.Services\obj\Debug\net6.0\refint\Cms.Services.dll
+C:\Users\Travel\source\repos\CMS\Cms.Services\obj\Debug\net6.0\Cms.Services.pdb
+C:\Users\Travel\source\repos\CMS\Cms.Services\obj\Debug\net6.0\ref\Cms.Services.dll
+C:\TFSNew\TravelU\Portal-US\TUCMS\Dev\Cms.Services\bin\Debug\net6.0\Cms.Services.deps.json
+C:\TFSNew\TravelU\Portal-US\TUCMS\Dev\Cms.Services\bin\Debug\net6.0\Cms.Services.dll
+C:\TFSNew\TravelU\Portal-US\TUCMS\Dev\Cms.Services\bin\Debug\net6.0\Cms.Services.pdb
+C:\TFSNew\TravelU\Portal-US\TUCMS\Dev\Cms.Services\bin\Debug\net6.0\CMS.Repositories.dll
+C:\TFSNew\TravelU\Portal-US\TUCMS\Dev\Cms.Services\bin\Debug\net6.0\DataManager.dll
+C:\TFSNew\TravelU\Portal-US\TUCMS\Dev\Cms.Services\bin\Debug\net6.0\CMS.Repositories.pdb
+C:\TFSNew\TravelU\Portal-US\TUCMS\Dev\Cms.Services\bin\Debug\net6.0\DataManager.pdb
+C:\TFSNew\TravelU\Portal-US\TUCMS\Dev\Cms.Services\obj\Debug\net6.0\Cms.Services.csproj.AssemblyReference.cache
+C:\TFSNew\TravelU\Portal-US\TUCMS\Dev\Cms.Services\obj\Debug\net6.0\Cms.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\TFSNew\TravelU\Portal-US\TUCMS\Dev\Cms.Services\obj\Debug\net6.0\Cms.Services.AssemblyInfoInputs.cache
+C:\TFSNew\TravelU\Portal-US\TUCMS\Dev\Cms.Services\obj\Debug\net6.0\Cms.Services.AssemblyInfo.cs
+C:\TFSNew\TravelU\Portal-US\TUCMS\Dev\Cms.Services\obj\Debug\net6.0\Cms.Services.csproj.CoreCompileInputs.cache
+C:\TFSNew\TravelU\Portal-US\TUCMS\Dev\Cms.Services\obj\Debug\net6.0\Cms.Serv.D76A44D2.Up2Date
+C:\TFSNew\TravelU\Portal-US\TUCMS\Dev\Cms.Services\obj\Debug\net6.0\Cms.Services.dll
+C:\TFSNew\TravelU\Portal-US\TUCMS\Dev\Cms.Services\obj\Debug\net6.0\refint\Cms.Services.dll
+C:\TFSNew\TravelU\Portal-US\TUCMS\Dev\Cms.Services\obj\Debug\net6.0\Cms.Services.pdb
+C:\TFSNew\TravelU\Portal-US\TUCMS\Dev\Cms.Services\obj\Debug\net6.0\ref\Cms.Services.dll
+C:\Users\Travel\Downloads\Umesh\Projects\CMS API\Cms.Services\bin\Debug\net6.0\Cms.Services.deps.json
+C:\Users\Travel\Downloads\Umesh\Projects\CMS API\Cms.Services\bin\Debug\net6.0\Cms.Services.dll
+C:\Users\Travel\Downloads\Umesh\Projects\CMS API\Cms.Services\bin\Debug\net6.0\Cms.Services.pdb
+C:\Users\Travel\Downloads\Umesh\Projects\CMS API\Cms.Services\bin\Debug\net6.0\CMS.Repositories.dll
+C:\Users\Travel\Downloads\Umesh\Projects\CMS API\Cms.Services\bin\Debug\net6.0\DataManager.dll
+C:\Users\Travel\Downloads\Umesh\Projects\CMS API\Cms.Services\bin\Debug\net6.0\CMS.Repositories.pdb
+C:\Users\Travel\Downloads\Umesh\Projects\CMS API\Cms.Services\bin\Debug\net6.0\DataManager.pdb
+C:\Users\Travel\Downloads\Umesh\Projects\CMS API\Cms.Services\obj\Debug\net6.0\Cms.Services.csproj.AssemblyReference.cache
+C:\Users\Travel\Downloads\Umesh\Projects\CMS API\Cms.Services\obj\Debug\net6.0\Cms.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Travel\Downloads\Umesh\Projects\CMS API\Cms.Services\obj\Debug\net6.0\Cms.Services.AssemblyInfoInputs.cache
+C:\Users\Travel\Downloads\Umesh\Projects\CMS API\Cms.Services\obj\Debug\net6.0\Cms.Services.AssemblyInfo.cs
+C:\Users\Travel\Downloads\Umesh\Projects\CMS API\Cms.Services\obj\Debug\net6.0\Cms.Services.csproj.CoreCompileInputs.cache
+C:\Users\Travel\Downloads\Umesh\Projects\CMS API\Cms.Services\obj\Debug\net6.0\Cms.Serv.D76A44D2.Up2Date
+C:\Users\Travel\Downloads\Umesh\Projects\CMS API\Cms.Services\obj\Debug\net6.0\Cms.Services.dll
+C:\Users\Travel\Downloads\Umesh\Projects\CMS API\Cms.Services\obj\Debug\net6.0\refint\Cms.Services.dll
+C:\Users\Travel\Downloads\Umesh\Projects\CMS API\Cms.Services\obj\Debug\net6.0\Cms.Services.pdb
+C:\Users\Travel\Downloads\Umesh\Projects\CMS API\Cms.Services\obj\Debug\net6.0\ref\Cms.Services.dll

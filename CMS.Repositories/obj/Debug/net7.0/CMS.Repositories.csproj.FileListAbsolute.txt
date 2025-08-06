@@ -1,0 +1,15 @@
+C:\Users\Travel\source\repos\CMS\CMS.Repositories\bin\Debug\net7.0\CMS.Repositories.deps.json
+C:\Users\Travel\source\repos\CMS\CMS.Repositories\bin\Debug\net7.0\CMS.Repositories.dll
+C:\Users\Travel\source\repos\CMS\CMS.Repositories\bin\Debug\net7.0\CMS.Repositories.pdb
+C:\Users\Travel\source\repos\CMS\CMS.Repositories\bin\Debug\net7.0\DataManager.dll
+C:\Users\Travel\source\repos\CMS\CMS.Repositories\bin\Debug\net7.0\DataManager.pdb
+C:\Users\Travel\source\repos\CMS\CMS.Repositories\obj\Debug\net7.0\CMS.Repositories.csproj.AssemblyReference.cache
+C:\Users\Travel\source\repos\CMS\CMS.Repositories\obj\Debug\net7.0\CMS.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Travel\source\repos\CMS\CMS.Repositories\obj\Debug\net7.0\CMS.Repositories.AssemblyInfoInputs.cache
+C:\Users\Travel\source\repos\CMS\CMS.Repositories\obj\Debug\net7.0\CMS.Repositories.AssemblyInfo.cs
+C:\Users\Travel\source\repos\CMS\CMS.Repositories\obj\Debug\net7.0\CMS.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Travel\source\repos\CMS\CMS.Repositories\obj\Debug\net7.0\CMS.Repo.135E0747.Up2Date
+C:\Users\Travel\source\repos\CMS\CMS.Repositories\obj\Debug\net7.0\CMS.Repositories.dll
+C:\Users\Travel\source\repos\CMS\CMS.Repositories\obj\Debug\net7.0\refint\CMS.Repositories.dll
+C:\Users\Travel\source\repos\CMS\CMS.Repositories\obj\Debug\net7.0\CMS.Repositories.pdb
+C:\Users\Travel\source\repos\CMS\CMS.Repositories\obj\Debug\net7.0\ref\CMS.Repositories.dll
